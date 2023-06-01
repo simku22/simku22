@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hey! I'm Simon. 👋
+
+####  I'm a freshman at the University of Washington studying Informatics (B.S, Concentration: Software Development/Cybersecurity)
+
 
 <!--
-**simku22/simku22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
