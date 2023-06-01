@@ -17,7 +17,7 @@
   </a>
   <!-- R -->
   <a href="https://cran.r-project.org/index.html">
-    <ing scr="https://cran.r-project.org/Rlogo.svg" alt="R" height = "64px">
+    <ing src="https://cran.r-project.org/Rlogo.svg" alt="R" height = "64px">
   </a>
 </span>
 <!--
