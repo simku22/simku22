@@ -23,3 +23,7 @@
 </span>
 
 ### Tools
+  <!-- IntelliJ -->
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"     alt="IntelliJ" height = "64px" />
+  </a>
