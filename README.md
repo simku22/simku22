@@ -2,7 +2,7 @@
   𝐇𝐞𝐲! 𝐈'𝐦 𝐒𝐢𝐦𝐨𝐧. 🇺🇦
 </h3>
 
-<h4 font-size: 14px> 𝐈'𝐦 𝐚 𝐟𝐫𝐞𝐬𝐡𝐦𝐚𝐧 𝐚𝐭 𝐭𝐡𝐞 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐖𝐚𝐬𝐡𝐢𝐧𝐠𝐭𝐨𝐧 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐜𝐬 (𝐁.𝐒, 𝐂𝐨𝐧𝐜𝐞𝐧𝐭𝐫𝐚𝐭𝐢𝐨𝐧: 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭/𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲) </h4>
+<h4 font-size: 14px> I'm a freshman at the University of Washington studying Informatics (Software Development & Cybersecurity) </h4>
 <h4 style="font-size: 14px;">
   <hr style="border: none; border-top: 1px solid blue; margin-top: 5px; margin-bottom: 5px;">
   Proficient Languages
