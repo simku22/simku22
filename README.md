@@ -1,5 +1,5 @@
 <h3 font-size: 14px>
-  𝐇𝐞𝐲! 𝐈'𝐦 𝐒𝐢𝐦𝐨𝐧. 🇺🇦
+  𝐇𝐞𝐲! 𝐈'𝐦 𝐒𝐢𝐦𝐨𝐧.
 </h3>
 
 <h4 font-size: 14px> I'm a freshman at the University of Washington studying Informatics (Software Development & Cybersecurity) </h4>
