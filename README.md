@@ -10,7 +10,11 @@
 
 <h3> Here's a photo I took at Golden Gardens in Seattle, Washington. (2022) </h3>
 
-<img src="/DSCF6247.jpg" width="50%" alt="A sunset view of Golden Gardens beach in Seattle">
+<div style="text-align: center;">
+  <img src="/DSCF6247.jpg" width="50%" alt="A sunset view of Golden Gardens beach in Seattle">
+</div>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5mD2z2wzcOnMPNjjjLBSyc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <h4 style="font-size: 14px;">
   <hr style="border: none; border-top: 1px solid blue; margin-top: 5px; margin-bottom: 5px;">
