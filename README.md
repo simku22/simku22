@@ -10,6 +10,8 @@
 
 <h3> Here's a photo I took at Golden Gardens in Seattle, Washington. (2022) </h3>
 
+<hr style="border: none; border-top: 1px solid blue; margin-top: 5px; margin-bottom: 5px;">
+
 <div style="text-align: center;">
   <img src="/DSCF6247.jpg" alt="A sunset view of Golden Gardens beach in Seattle">
 </div>
