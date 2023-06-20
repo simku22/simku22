@@ -16,10 +16,10 @@
   <img src="/DSCF6247.jpg" alt="A sunset view of Golden Gardens beach in Seattle">
 </div>
 
-<h4 style="font-size: 14px;">
+<h3 style="font-size: 14px;">
   <hr style="border: none; border-top: 1px solid blue; margin-top: 5px; margin-bottom: 5px;">
   Proficient Languages
-</h4>
+</h3>
 
 <span style="display: inline-block; width: 50px; height: 200px; overflow: hidden;">
   <!-- Java -->
@@ -40,14 +40,14 @@
   </a>
 </span>
 
-<h4> Beginner Languages </h3>
+<h3> Beginner Languages </h3>
 <span>
   <a href="https://www.python.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" height = "46px"/>
   </a>
 </span>
   
-<h4> Tools </h3>
+<h3> Tools </h3>
 <span>
   <!-- IntelliJ -->
   <a href="https://www.jetbrains.com/idea/">
