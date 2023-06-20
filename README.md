@@ -1,8 +1,15 @@
-<h3 font-size: 14px>
-  𝐇𝐞𝐲! 𝐈'𝐦 𝐒𝐢𝐦𝐨𝐧.
+<h3>
+  ✌ Hey! I'm Simon. 
 </h3>
 
-<h4 font-size: 14px> I'm a freshman at the University of Washington studying Informatics (Software Development & Cybersecurity) </h4>
+<h3> I'm a freshman at the University of Washington studying Information Technology (Software Development & Information Architecture). 👨‍💻 </h3>
+
+<h3> I'm currently exploring coursework and projects in data visualization and data engineering as I gear up for research and work this upcoming year. </h3>
+   
+<h3> Here you can find listed my relevant work experience, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20. </h3>
+
+<img src="https://photos.google.com/photo/AF1QipMa-nplkQtk53iGiTic9_azdSFrEr2pRudamM7C" />
+
 <h4 style="font-size: 14px;">
   <hr style="border: none; border-top: 1px solid blue; margin-top: 5px; margin-bottom: 5px;">
   Proficient Languages
