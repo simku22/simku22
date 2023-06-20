@@ -2,7 +2,7 @@
   ✌ Hey! I'm Simon. 
 </h3>
 
-<h3> I'm a freshman at the University of Washington studying Information Technology (Software Development & Information Architecture). 👨‍💻 </h3>
+<h3> I'm a sophomore at the University of Washington studying Information Technology (Software Development & Information Architecture). 👨‍💻 </h3>
 
 <h3> I'm currently exploring coursework and projects in data visualization and data engineering as I gear up for research and work this upcoming year. 🦾 </h3>
    
