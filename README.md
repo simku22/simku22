@@ -8,7 +8,7 @@
    
 <h3> Here you can find listed my relevant work experience, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20. </h3>
 
-<img src="https://photos.google.com/photo/AF1QipMa-nplkQtk53iGiTic9_azdSFrEr2pRudamM7C" />
+<img src="/DSCF6247.jpg" />
 
 <h4 style="font-size: 14px;">
   <hr style="border: none; border-top: 1px solid blue; margin-top: 5px; margin-bottom: 5px;">
