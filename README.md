@@ -6,7 +6,7 @@
 
 <h3> I'm currently exploring coursework and projects in data visualization and data engineering as I gear up for research and work this upcoming year. 🦾 </h3>
    
-<h3> Here you can find listed my relevant work experience, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20. 📷 </h3>
+<h3> Here you can find here my relevant projects, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20. 📷 </h3>
 
 <h3> Here's a photo I took at Golden Gardens in Seattle, Washington. (2022) </h3>
 
