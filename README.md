@@ -4,7 +4,7 @@
 
 <h3>Check out my <a href="https://simku22.github.io/simonkurgan/">website!</a></h3>
 
-<h3> I'm a sophomore at the University of Washington studying Information Technology (Software Development & Information Architecture). 👨‍💻 </h3>
+<h3> I'm a sophomore at the University of Washington studying Information Technology (Software Development & Human-Computer Interaction). 👨‍💻 </h3>
 
 <h3> I'm currently exploring coursework and projects in data visualization and data engineering as I gear up for research and work this upcoming year. 🦾 </h3>
    
