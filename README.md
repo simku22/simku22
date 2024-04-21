@@ -12,7 +12,7 @@
    
 <h3> Here you can find here my relevant projects, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20. 📷 </h3>
 
-| <a href="https://github-readme-stats.vercel.app/api?username=simku22&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api?username=simku22&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=simku22&theme=dark"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simku22&theme=dark" /></a> |
+| <a href="https://private-stats-readme-instance.vercel.app//api?username=simku22&theme=dark"><img align="center" src="https://private-stats-readme-instance.vercel.app//api?username=simku22&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://private-stats-readme-instance.vercel.app/api/top-langs/?username=simku22&theme=dark"><img align="center" src="https://private-stats-readme-instance.vercel.app/api/top-langs/?username=simku22&theme=dark" /></a> |
 
 <!-- 
 <h3> Here's a photo I took at Golden Gardens in Seattle, Washington. (2022) </h3>
