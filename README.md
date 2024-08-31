@@ -6,7 +6,7 @@
 
 <div style="display: flex; align-items: center;">
   <h3 style="margin-right: 10px;">
-    I'm a Jr. SDE at Amazon <img height="20px" src="https://yt3.googleusercontent.com/6iTydkJ40e1cA9vhdCoY2vji_kwTHncp6N9OV66zBe-QaQqd2ku597hQjbqvUZscxTSePbOn5Q=s900-c-k-c0x00ffffff-no-rj" alt="amazon logo"/> and a sophomore at the University of Washington studying Informatics
+    I'm a Jr. SDE at Amazon <img height="20px" src="https://yt3.googleusercontent.com/6iTydkJ40e1cA9vhdCoY2vji_kwTHncp6N9OV66zBe-QaQqd2ku597hQjbqvUZscxTSePbOn5Q=s900-c-k-c0x00ffffff-no-rj" alt="amazon logo"/> and a junior at the University of Washington studying Informatics
   </h3>
 </div>
    
