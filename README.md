@@ -10,7 +10,7 @@
   </h3>
 </div>
    
-<h3> Here you can find here my relevant projects, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music (mostly jazz and classics), and photograph on film (Canon A-1) and with a digital Fuji XT-20. 📷 </h3>
+<h3> Here you can find here my relevant projects, as well as some of my photos and information about my hobbies. I regularly compose and listen to new music, and photograph on film (Canon A-1) and with a digital Fuji XT-20. 📷 </h3>
 
 <!-- 
 | <a href="https://private-stats-readme-instance.vercel.app//api?username=simku22&theme=tokyonight"><img align="center" src="https://private-stats-readme-instance.vercel.app//api?username=simku22&theme=tokyonight" alt="Anurag's github stats" /></a> | <a href="https://private-stats-readme-instance.vercel.app/api/top-langs/?username=simku22&theme=tokyonight"><img align="center" src="https://private-stats-readme-instance.vercel.app/api/top-langs/?username=simku22&theme=tokyonight" /></a> |
