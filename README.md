@@ -1,1 +1,1 @@
-I'm Simon, a junior at the University of Washington studying math and informatics. My focus is on discrete math, and it will be my sole focus academically over the course of the next year. I work at Amazon as a Jr. Software Developer.
+I'm Simon, a junior at the University of Washington studying math and informatics. My focus is on discrete math, and it will be my sole focus academically over the course of the next year. I work at Amazon as a Jr. Software Developer on a content retrieval system, where I've been since November of 2023.
